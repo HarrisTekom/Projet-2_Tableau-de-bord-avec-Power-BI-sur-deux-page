@@ -11,6 +11,6 @@ En cliquant sur ce lien, vous pouvez accéder au tableau de bord de la deuxieme 
 
 
 
-Veuillez copier et coller le lien sur un navigateur:
+Veuillez copier et coller le lien sur un navigateur: https://drive.google.com/file/d/13OXml6QJ9LuzL8a6FFmMfJuTH3AlKK9V/view?usp=sharing
 
 En cliquant sur ce lien, vous pouvez accéder à une vidéo de 5 - 10 min résumant la réalisation.
