@@ -1,4 +1,4 @@
-# Projet-2_Tableau-de-bord-avec-Power-BI-sur-deux-page
+# Réalisation d'un tableau de bord des tendances du marché locatif d'Airbnb et des données sur les ventes dans le secteur de l'immobilier de l'année 2019
 Réalisation d'un tableau de bord sur deux page grâce à l'outil Power BI.
 
 Réalisation d'un tableau de bord dynamique des tendances du marché locatif de Airbnb et données sur les ventes dans les secteurs de l'immobilier durant année 2019, grâce à des sources de données en provenance de kaggle. Veuillez copier et coller le lien sur un navigateur: https://drive.google.com/file/d/1fqNXo_rfEOeenxyFjhPnY1j8HS0NcUvW/view?usp=sharing
